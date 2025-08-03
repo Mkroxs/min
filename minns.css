@@ -65,5 +65,8 @@ body {
   color: #8B0000; /* dark red */
   text-align: center;
   margin-top: 2rem;
+  position: relative; /* prevents being overlapped */
+  z-index: 3;
 }
+
 
