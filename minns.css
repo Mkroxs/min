@@ -59,14 +59,7 @@ body {
 .sound--off {
   text-decoration: line-through;
 }
-.kfmctext {
-  font-size: 3rem;
-  font-weight: bold;
-  color: #8B0000; /* dark red */
-  text-align: center;
-  margin-top: 2rem;
-  position: relative; /* prevents being overlapped */
-  z-index: 3;
-}
+
+
 
 
